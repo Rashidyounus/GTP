@@ -1,0 +1,14 @@
+D:\VS\Linklist\Linklist\bin\Debug\netcoreapp3.1\Linklist.exe
+D:\VS\Linklist\Linklist\bin\Debug\netcoreapp3.1\Linklist.deps.json
+D:\VS\Linklist\Linklist\bin\Debug\netcoreapp3.1\Linklist.runtimeconfig.json
+D:\VS\Linklist\Linklist\bin\Debug\netcoreapp3.1\Linklist.runtimeconfig.dev.json
+D:\VS\Linklist\Linklist\bin\Debug\netcoreapp3.1\Linklist.dll
+D:\VS\Linklist\Linklist\bin\Debug\netcoreapp3.1\Linklist.pdb
+D:\VS\Linklist\Linklist\obj\Debug\netcoreapp3.1\Linklist.csproj.AssemblyReference.cache
+D:\VS\Linklist\Linklist\obj\Debug\netcoreapp3.1\Linklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Linklist\Linklist\obj\Debug\netcoreapp3.1\Linklist.AssemblyInfoInputs.cache
+D:\VS\Linklist\Linklist\obj\Debug\netcoreapp3.1\Linklist.AssemblyInfo.cs
+D:\VS\Linklist\Linklist\obj\Debug\netcoreapp3.1\Linklist.csproj.CoreCompileInputs.cache
+D:\VS\Linklist\Linklist\obj\Debug\netcoreapp3.1\Linklist.dll
+D:\VS\Linklist\Linklist\obj\Debug\netcoreapp3.1\Linklist.pdb
+D:\VS\Linklist\Linklist\obj\Debug\netcoreapp3.1\Linklist.genruntimeconfig.cache
