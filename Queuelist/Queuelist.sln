@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queuelist", "Queuelist\Queuelist.csproj", "{F3267FC2-5E98-4CD0-BE50-138E1FB697DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3267FC2-5E98-4CD0-BE50-138E1FB697DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3267FC2-5E98-4CD0-BE50-138E1FB697DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3267FC2-5E98-4CD0-BE50-138E1FB697DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3267FC2-5E98-4CD0-BE50-138E1FB697DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02ED67B8-9845-421F-AC85-65268972C828}
+	EndGlobalSection
+EndGlobal

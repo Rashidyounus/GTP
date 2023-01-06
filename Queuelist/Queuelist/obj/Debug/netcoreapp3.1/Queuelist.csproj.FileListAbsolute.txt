@@ -1,0 +1,14 @@
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\bin\Debug\netcoreapp3.1\Queuelist.exe
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\bin\Debug\netcoreapp3.1\Queuelist.deps.json
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\bin\Debug\netcoreapp3.1\Queuelist.runtimeconfig.json
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\bin\Debug\netcoreapp3.1\Queuelist.runtimeconfig.dev.json
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\bin\Debug\netcoreapp3.1\Queuelist.dll
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\bin\Debug\netcoreapp3.1\Queuelist.pdb
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\obj\Debug\netcoreapp3.1\Queuelist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\obj\Debug\netcoreapp3.1\Queuelist.AssemblyInfoInputs.cache
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\obj\Debug\netcoreapp3.1\Queuelist.AssemblyInfo.cs
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\obj\Debug\netcoreapp3.1\Queuelist.csproj.CoreCompileInputs.cache
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\obj\Debug\netcoreapp3.1\Queuelist.dll
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\obj\Debug\netcoreapp3.1\Queuelist.pdb
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\obj\Debug\netcoreapp3.1\Queuelist.genruntimeconfig.cache
+C:\Users\rashid.mahmood\source\repos\Queuelist\Queuelist\obj\Debug\netcoreapp3.1\Queuelist.csproj.AssemblyReference.cache
