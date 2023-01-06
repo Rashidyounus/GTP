@@ -1,0 +1,14 @@
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\bin\Debug\netcoreapp3.1\linklist.exe
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\bin\Debug\netcoreapp3.1\linklist.deps.json
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\bin\Debug\netcoreapp3.1\linklist.runtimeconfig.json
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\bin\Debug\netcoreapp3.1\linklist.runtimeconfig.dev.json
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\bin\Debug\netcoreapp3.1\linklist.dll
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\bin\Debug\netcoreapp3.1\linklist.pdb
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\obj\Debug\netcoreapp3.1\linklist.csproj.AssemblyReference.cache
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\obj\Debug\netcoreapp3.1\linklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\obj\Debug\netcoreapp3.1\linklist.AssemblyInfoInputs.cache
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\obj\Debug\netcoreapp3.1\linklist.AssemblyInfo.cs
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\obj\Debug\netcoreapp3.1\linklist.csproj.CoreCompileInputs.cache
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\obj\Debug\netcoreapp3.1\linklist.dll
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\obj\Debug\netcoreapp3.1\linklist.pdb
+C:\Users\rashid.mahmood\source\repos\linklist\linklist\obj\Debug\netcoreapp3.1\linklist.genruntimeconfig.cache

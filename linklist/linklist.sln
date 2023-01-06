@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linklist", "linklist\linklist.csproj", "{A6F6A662-0E21-4128-9298-0B67E7CFA0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queuelist", "Queuelist\Queuelist.csproj", "{DDF0037C-61CA-421D-A139-84D922330EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F6A662-0E21-4128-9298-0B67E7CFA0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F6A662-0E21-4128-9298-0B67E7CFA0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F6A662-0E21-4128-9298-0B67E7CFA0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F6A662-0E21-4128-9298-0B67E7CFA0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF0037C-61CA-421D-A139-84D922330EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF0037C-61CA-421D-A139-84D922330EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF0037C-61CA-421D-A139-84D922330EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF0037C-61CA-421D-A139-84D922330EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {411AC090-BA82-41E5-A46A-53974888BA63}
+	EndGlobalSection
+EndGlobal
